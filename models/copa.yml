@@ -4,5 +4,5 @@ categories:
   - name: sample
 transactions:
   - name: sample2
-    date_column: name1
+    date_column: order_date
   
