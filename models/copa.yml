@@ -1,0 +1,7 @@
+version : '2'
+transactions : 
+  - name: sample2
+    date_column: order_date
+categories:
+  - name: sample
+  
